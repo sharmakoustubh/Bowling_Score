@@ -1,1 +1,9 @@
-# Bowling_Score
+bowling
+=====
+
+An OTP application
+
+Build
+-----
+
+    $ rebar3 compile
